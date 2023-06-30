@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GasApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/background</item>
+        <item name="colorPrimaryVariant">@color/purple_items</item>
+        <item name="colorOnPrimary">@color/grey_items</item>
+    </style>
+    <style name="Theme.GasApp" parent="Base.Theme.GasApp" />
+</resources>

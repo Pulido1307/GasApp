@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GasApp</string>
+    <string name="imagen_de_splahs">imagen de splahs</string>
+    <string name="imagen_de_carga">imagen de carga</string>
+</resources>
