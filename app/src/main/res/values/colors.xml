@@ -6,4 +6,6 @@
     <color name="purple_items">#61398F</color>
     <color name="grey_items">#D6C6E1</color>
     <color name="color_selection">#878787</color>
+    <color name="purple">#8B5FBF</color>
+    <color name="dark_grey">#4A4A4A</color>
 </resources>

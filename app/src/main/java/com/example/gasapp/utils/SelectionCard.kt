@@ -11,8 +11,7 @@ class SelectionCard {
         fun selectionItem(cardView: CardView, context: Context) {
             cardView.setBackgroundColor(context.getColor(R.color.color_selection))
             Handler(Looper.getMainLooper()).postDelayed({
-
-                cardView.setBackgroundColor(context.getColor(R.color.grey_items))
+                cardView.setBackgroundColor(context.getColor(R.color.background))
             }, 50)
         }
     }
